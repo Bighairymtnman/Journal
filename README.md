@@ -38,4 +38,8 @@ This app shares the same foundation as the Bible App and is packaged as a cross-
 <img src="./screenshots/3.png" alt="Screenshot 3" width="600">
 
 
+## License
 
+© 2025 Andrew Nicastro. All rights reserved.
+
+This application is provided as-is for personal use. Redistribution, repackaging, or commercial use is strictly prohibited without explicit written permission from the author.
