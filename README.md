@@ -6,7 +6,7 @@ A simple, clean, and modern desktop application for journaling and daily reflect
 
 ## About The Project
 
-The Journal App was created to offer a peaceful and minimal environment for capturing thoughts, prayers, reflections, or anything else on your mind.
+The Journal App was created to offer a minimal environment for capturing thoughts, prayers, reflections, or anything else on your mind.
 
 This app shares the same foundation as the Bible App and is packaged as a cross-platform desktop application using Electron.
 
